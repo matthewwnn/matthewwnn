@@ -1,4 +1,4 @@
-## Hi there 👋
+Studying Economics & Math specializing in Quantitative Analysis at San Diego State University. 
 
 <!--
 **matthewwnn/matthewwnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
