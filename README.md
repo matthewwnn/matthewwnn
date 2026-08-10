@@ -1,4 +1,4 @@
-Studying Economics & Math specializing in Quantitative Analysis at San Diego State University. 
+M.S. Quantitative Economics
 
 <!--
 **matthewwnn/matthewwnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
